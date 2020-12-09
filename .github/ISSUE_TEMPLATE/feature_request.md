@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Enter your feedback**
+**Summarize your feature**
 
 
 **Location**
